@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 2px solid blanchedalmond;
+  margin: 25px 0;
+  padding: 20px 0;
+}
+
+.getInput input {
+  padding: 10px 10px;
+  width: 80%;
+  border-radius: 0.5rem;
+  border: none;
+  outline: 2px solid #dfb9b9;
+}
+
+.renderedP {
+  font-weight: bold;
+  font-size: 18px;
+  color: turquoise;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.clock {
+  border: 2px double #868484;
+  text-align: center;
+  border-radius: 20px;
+  margin: 3rem auto;
+  padding: 20px 0;
+}
+
+.clock h1 {
+  color: red;
+}
+.clock h2 span {
+  color: rgb(43, 56, 243);
+}
